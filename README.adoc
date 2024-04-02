@@ -1,0 +1,31 @@
+= Clear Permissive Licence =
+
+The _Clear Permissive Licence_ is a project to develop a new permissive licence for open-source software based in
+concise, clear, plain language.
+
+
+== Licence Design Principles ==
+[horizontal]
+
+Permissive::
+   The licence aims to be as permissive as possible, avoiding imposing restrictions on the user.
+
+Clear::
+   The licence aims to use plain English, avoiding legalese and jargon.
+
+Concise::
+   The licence aims to be as short as possible, avoiding large blocks of text and unnecessary lists.
+
+Flexible::
+   The licence aims to provide flexibility, offering optional files with supplementary information.
+
+
+== Structure ==
+[horizontal]
+
+`LICENCE`::
+   A template of the actual licence terms, with placeholders for copyright information.
+
+`WARRANTY`::
+   An optional file with a more explicit & explanatory warranty disclaimer.
+
