@@ -5,10 +5,43 @@ concise, clear, plain language.
 
 
 == Licence Design Principles ==
-[horizontal]
 
 Permissive::
    The licence aims to be as permissive as possible, avoiding imposing restrictions on the user.
+
+   Rationale:::
++
+[%collapsible]
+._'Copyleft'_ provisions add significant complexity to a licence.
+=============
+   - They can be confusing for users, requiring background knowledge of _'Free Software'_ philosophy to
+     understand their purpose.
+
+   - They require users to spend considerable time upfront considering their obligations, and if they will
+     be compatible with their project, not only now but in the future.
+
+   - They tend towards unreasonable length, making it less likely that users will read and understand
+     them fully.
+     (The `_GPLv3_` is ~5600 words, the `_LGPLv3_` is ~1200 more on top.
+     The `_MPLv2_` & `_EPLv2_` are at the more modest end at ~2300 & ~2000 words respectively.)
+=============
++
+[%collapsible]
+.Restrictions such as _'non-commercial'_, _'no-derivatives'_, etc. can be similarly problematic.
+=============
+   - What constitutes _'commercial'_ use may not be obvious to users, requiring bloat of the licence to
+     avoid uncertainty.
+     Uncertainty & doubt cost users time, and so impede their own productivity & projects.
+
+   - These more unusual conditions can cause a licence to be considered 'incompatible' with other licences,
+     particularly the more lengthy and more _'strong copyleft'_ licences.
+
+   - Similarly, they can be deemed as not meeting the requirements of various bodies to qualify as a
+     _'free software licence'_, _'open source licence'_, etc. which can exclude a project from resources,
+     support, etc.
+
+=============
+
 
 Clear::
    The licence aims to use plain English, avoiding legalese and jargon.
