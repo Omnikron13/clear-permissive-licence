@@ -46,6 +46,14 @@ Permissive::
 Clear::
    The licence aims to use plain English, avoiding legalese and jargon.
 
+   Details & Rationale:::
+      * _'Legalese'_ refers to words or turns of phrase which non-lawyers are unlikely to use or hear, either at all
+        or in the manner they are used in 'legal' documents.
+
+      * Jargon refers to words or phrases which are specific to a particular field (or have a very specific meaning in
+        that field) and are not commonly used, or even commonly understood, outside of that field.
+
+
 Concise::
    The licence aims to be as short as possible, avoiding large blocks of text and unnecessary lists.
 
