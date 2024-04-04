@@ -55,7 +55,10 @@ Clear::
 
 
 Concise::
-   The licence aims to be as short as possible, avoiding large blocks of text and unnecessary lists.
+   The licence aims to be as brief as possible, avoiding long & complex sentences, large blocks of text,
+   and unnecessary lists.
+   Any language that isn't necessary for the purpose of waiving copyright should be avoided.
+
 
 Flexible::
    The licence aims to provide flexibility, offering optional files with supplementary information.
